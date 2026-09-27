@@ -1,0 +1,10 @@
+Line 1: Hello, World!
+Line 2: This is a simple text file.
+Line 3: It contains ten lines of text.
+Line 4: Each line has some content.
+Line 5: This is the fifth line.
+Line 6: Halfway through the file.
+Line 7: Three more lines to go.
+Line 8: Almost there.
+Line 9: One more line after this.
+Line 10: This is the last line.
